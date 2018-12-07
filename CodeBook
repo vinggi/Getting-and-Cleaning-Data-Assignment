@@ -1,0 +1,8 @@
+# Tidy Dataset Description
+
+Tidy dataset consists of 180 rows and 68 columns.
+
+# Identifiers
+
+* Subject - The ID of the test subject
+* Activity - The type of activity performed when the corresponding measurements were taken
